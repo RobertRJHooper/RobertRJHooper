@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @RobertRJHooper
 - 👀 I’m interested in cloud programming, AI, web apps, data, flow control
+- You can reach me at rrjh@pm.me
+
 
 <!---
 RobertRJHooper/RobertRJHooper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
